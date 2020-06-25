@@ -12,7 +12,7 @@ import home from './pages/home';
 import login from './pages/login';
 import signup from './pages/signup';
 import AuthRoute from './util/AuthRoute';
-import Navbar from './components/Navbar';
+import Navbar from './components/layout/Navbar';
 import axios from 'axios';
 
 const theme = createMuiTheme({
